@@ -1,0 +1,11 @@
+.User {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 5px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}

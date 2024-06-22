@@ -1,0 +1,12 @@
+
+
+.ContactUs {
+    background-color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    /* Adjusted shadow */
+    margin: 80px;
+    /* Increased margin */
+}
